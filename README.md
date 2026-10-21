@@ -1,2 +1,4 @@
 # recipes_1
-this is a re for carpentries tutorial
+this repository is to create a project about the guacamole
+*i love guac
+## Instructions
